@@ -1,0 +1,16 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Secretos y entorno
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
